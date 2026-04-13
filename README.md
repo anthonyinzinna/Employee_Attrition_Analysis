@@ -1,4 +1,4 @@
-# People-Analytics-Behavioral-Drivers
+# People Analytics Behavioral Drivers
 Behavioral analytics project combining Psychology and Machine Learning. Uses XGBoost & SHAP to decode retention drivers and predict turnover.
 
 Objective:
