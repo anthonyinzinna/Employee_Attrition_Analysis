@@ -30,19 +30,21 @@ This project demonstrates how behavioral data science can transform HR decision-
 Tools Used:
 Python (pandas, XGBoost, SHAP, scikit-learn, matplotlib, seaborn), Precision-Recall Tuning, Logistic Regression Benchmark, IBM HR Attrition Dataset.
 
-# Clone & Run
+### 💻 Quickstart
 
-# 1. Clone Repository 
-git clone https://github.com/anthonyinzinna/People-Analytics-Behavioral-Drivers.git
+```bash
+# Clone the repository
+git clone [https://github.com/anthonyinzinna/People-Analytics-Behavioral-Drivers.git](https://github.com/anthonyinzinna/People-Analytics-Behavioral-Drivers.git)
 
-# 2. Directory Pathway
+# Navigate into the directory
 cd People-Analytics-Behavioral-Drivers
 
-# 3. Install dependencies
+# Install dependencies
 pip install -r requirements.txt
 
-# 4. Run script
+# Run the training script
 python train.py
+
 
 
 
