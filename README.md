@@ -44,6 +44,7 @@ pip install -r requirements.txt
 
 # Run the training script
 python train.py
+```
 
 
 
