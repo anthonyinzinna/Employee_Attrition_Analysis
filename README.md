@@ -30,4 +30,12 @@ This project demonstrates how behavioral data science can transform HR decision-
 Tools Used:
 Python (pandas, XGBoost, SHAP, scikit-learn, matplotlib, seaborn), Precision-Recall Tuning, Logistic Regression Benchmark, IBM HR Attrition Dataset.
 
+# Clone & Run
+git clone https://github.com/anthonyinzinna/people-analytics-attrition.git
+cd people-analytics-attrition
+pip install -r requirements.txt
+python train.py
+
+
+
 
