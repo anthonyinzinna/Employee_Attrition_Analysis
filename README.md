@@ -31,10 +31,20 @@ Tools Used:
 Python (pandas, XGBoost, SHAP, scikit-learn, matplotlib, seaborn), Precision-Recall Tuning, Logistic Regression Benchmark, IBM HR Attrition Dataset.
 
 # Clone & Run
-git clone https://github.com/anthonyinzinna/people-analytics-attrition.git
-cd people-analytics-attrition
+
+# 1. Clone Repository 
+git clone https://github.com/anthonyinzinna/People-Analytics-Behavioral-Drivers.git
+
+# 2. Directory Pathway
+cd People-Analytics-Behavioral-Drivers
+
+# 3. Install dependencies
 pip install -r requirements.txt
+
+# 4. Run script
 python train.py
+
+
 
 
 
